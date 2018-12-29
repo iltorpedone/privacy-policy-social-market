@@ -23,8 +23,6 @@ Titolare del trattamento è:
 - E-mail: info@marse.it
 - PEC: marse@pec.it
 
-I dati personali raccolti mediante il form contatti e a seguito della compilazione della richiesta di ricevere la newsletter saranno inviati via email al Titolare e i medesimi dati sono inviati al gestore software di Newsletter Mailchimp, cioè alla società The Rocket Science Group in qualità di Responsabile del trattamento.
-
 ## 4. BASE GIURIDICA DEL TRATTAMENTO/DURATA
 
 I dati personali indicati in questa pagina sono trattati da Associazione di Promozione Sociale MARSE sulla base del consenso libero ed esplicito di coloro che entrano in contatto con l'associazione, per rispondere a richieste (come il ricevimento della newsletter) o dare esecuzione a obblighi contrattuali degli interessati, ivi compresi i soci nell’ambito del rapporto associativo. Il trattamento avrà una durata non superiore a quella necessaria alle finalità per le quali i dati sono stati raccolti ed in particolare non oltre 10 anni dalla cessazione del rapporto associativo, contrattuale o di servizio a cui si riferiscono.
