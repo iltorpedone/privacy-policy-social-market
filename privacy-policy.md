@@ -41,29 +41,21 @@ Tali dati, necessari per la fruizione dei servizi web, vengono anche trattati al
 
 I dati di navigazione raccolti da [Heroku](https://heroku.com) non persistono per più di 1 SETTIMANA.
 
-### 5.2. Dati comunicati dall'utente
+### 5.2. Cookie e altri sistemi di tracciamento
 
-Il form contatti messo a disposizione sul sito ha il solo scopo di consentire ai visitatori del sito di contattare, qualora lo desiderino, il gestore del sito stesso, inviando tramite il suddetto form una email al gestore. La presente informativa riguarda i dati personali inviati dall’utente visitatore al momento della compilazione del form contatti. Ti informiamo del fatto che i dati che conferirai volontariamente tramite il form verranno tramutati in una email che eventualmente potrà essere conservata all’interno del sistema di ricezione di email utilizzato dal titolare del sito. Questi dati non verranno registrati su altri supporti o dispositivi, ne verranno registrati altri dati derivanti dalla tua navigazione sul sito.
-
-Attraverso il sito il visitatore può compilare uno specifico form i cui dati identificativi sono utilizzati solo per trasmettere via e-mail la newsletter che il visitatore può richiedere.
-
-Specifiche informative verranno pubblicate nelle pagine interattive di Associazione di Promozione Sociale MARSE eventualmente predisposte per l'erogazione di determinati servizi.
-
-### 5.3. Cookie e altri sistemi di tracciamento
-
-#### 5.3.4. Cookie tecnici
+#### 5.2.1. Cookie tecnici
 
 L’area pubblica del sito de Associazione di Promozione Sociale MARSE non utilizza cookie tecnici. L’accesso riservato è limitato agli utenti incaricati della gestione del sito, che usa cookie tecnici per il suo funzionamento.
 
-#### 5.3.5. Cookie analitici
+#### 5.2.2. Cookie analitici
 
 I cookie di questo tipo vengono utilizzati per raccogliere informazioni sull’utilizzo del sito. Il Titolare usa tali informazioni per analisi statistiche, per migliorare il sito e semplificarne l’utilizzo, oltre che per monitorarne il corretto funzionamento. Questo tipo di cookie raccoglie informazioni in forma anonima sull’attività degli utenti nel sito e sul modo in cui sono arrivati al Sito e alle pagine visitate. I cookie di questa categoria vengono inviati dal Sito stesso o da domini di terze parti.
 
-#### 5.3.6. Cookie di rilevamento di terze parti
+#### 5.2.3. Cookie di rilevamento di terze parti
 
 I cookie di questo tipo vengono generalmente utilizzati per raccogliere informazioni sull’utilizzo del sito Web da parte dei visitatori, le parole chiave usate per raggiungere il sito, i siti Web visitati e le origini del traffico da cui provengono i visitatori per le campagne di marketing. Il titolare non ne fa uso.
 
-#### 5.3.7. Cookie per l’integrazione di funzionalità di terze parti
+#### 5.2.4. Cookie per l’integrazione di funzionalità di terze parti
 
 I cookie di questo tipo vengono utilizzati per integrare funzionalità di terze parti nel Sito (ad esempio, moduli per i commenti o icone di social network che consentono ai visitatori di condividere il contenuto del sito). I cookie di questa categoria possono essere inviati dai domini dei siti partner o che comunque offrono le funzionalità presenti nel sito.
 
@@ -73,7 +65,7 @@ Per le altre tipologie di cookie, il consenso può essere espresso dall’Utente
 
 Cookie di questo tipo di terze parti sono installati da Facebook, Twitter e Youtube.
 
-### 5.4. Siti Web di terze parti
+### 5.3. Siti Web di terze parti
 
 Il sito non contiene collegamenti ad altri siti Web di terze parti
 Si ricorda, infine, che, ai sensi dell’art. 122 secondo comma del D.lgs. 196/2003, il consenso all’utilizzo di tali cookie è espresso dall’interessato mediante il settaggio individuale che ha scelto liberamente per il browser utilizzato per la navigazione nel sito, ferma restando la facoltà dell’utente di comunicare in ogni momento al Titolare del trattamento la propria volontà in merito ai dati gestiti per il tramite dei cookie che il browser stesso abbia accettato.
