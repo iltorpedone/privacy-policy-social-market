@@ -41,12 +41,6 @@ Tali dati, necessari per la fruizione dei servizi web, vengono anche trattati al
 
 I dati di navigazione raccolti da [Heroku](https://heroku.com) non persistono per più di 1 SETTIMANA.
 
-Le informazioni di navigazione sono acquisite anche attraverso il servizio Google Analytycs.
-
-Le informazioni generate dal cookie di Google Analytics sull’utilizzo del sito web vengono quindi trasmesse a Google e depositate presso i suoi server negli Stati Uniti. Google usa queste informazioni per tracciare e esaminare l’uso del sito da parte dei visitatori, e fornire questi dati, in forma aggregata e mai collegati alla tua identità, attraverso i report di Analytics e i suoi altri servizi informativi (es. Google Trends).
-
-Google potrebbe trasferire queste informazioni a terzi nel caso in cui questo sia imposto dalla legge o nel caso in cui si tratti di soggetti che trattano queste informazioni per suo conto; l’informativa su privacy e uso dei dati di Google Analytics è https://policies.google.com/?hl=it.
-
 ### 5.2. Dati comunicati dall'utente
 
 Il form contatti messo a disposizione sul sito ha il solo scopo di consentire ai visitatori del sito di contattare, qualora lo desiderino, il gestore del sito stesso, inviando tramite il suddetto form una email al gestore. La presente informativa riguarda i dati personali inviati dall’utente visitatore al momento della compilazione del form contatti. Ti informiamo del fatto che i dati che conferirai volontariamente tramite il form verranno tramutati in una email che eventualmente potrà essere conservata all’interno del sistema di ricezione di email utilizzato dal titolare del sito. Questi dati non verranno registrati su altri supporti o dispositivi, ne verranno registrati altri dati derivanti dalla tua navigazione sul sito.
