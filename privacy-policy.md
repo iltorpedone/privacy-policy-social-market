@@ -42,7 +42,7 @@ Tali dati, necessari per la fruizione dei servizi web, vengono anche trattati al
 - ottenere informazioni statistiche sull'uso dei servizi (pagine più visitate, numero di visitatori per fascia oraria o giornaliera, aree geografiche di provenienza, ecc.);
 - controllare il corretto funzionamento dei servizi offerti.
 
-I dati di navigazione non persistono per più di 3 MESI e vengono cancellati immediatamente dopo la loro aggregazione (salve eventuali necessità di accertamento di reati da parte dell'Autorità giudiziaria).
+I dati di navigazione raccolti da [Heroku](https://heroku.com) non persistono per più di 1 SETTIMANA.
 
 Le informazioni di navigazione sono acquisite anche attraverso il servizio Google Analytycs.
 
